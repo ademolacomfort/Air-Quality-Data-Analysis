@@ -1,6 +1,7 @@
 🌍 Air Quality Data Analysis using SQL and Python
 
 
+
 📌 Project Overview
 
 This project analyzes air quality data to uncover environmental pollution patterns and trends. Using SQL for data extraction and Python for analysis and visualization, the project explores how air pollutants vary across regions, time periods, and monitoring sources.
