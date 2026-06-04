@@ -117,7 +117,3 @@ Comfort Ademola
 B.Sc. Statistics
 
 Data Analyst (SQL | Python | Excel | Power BI)
-
-Comfort Ademola
-B.Sc. Statistics
-Data Analyst (SQL | Python | Excel | Power BI)
