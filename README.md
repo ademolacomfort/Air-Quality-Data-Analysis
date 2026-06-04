@@ -23,8 +23,11 @@ The goal is to generate actionable insights that can support environmental monit
 
 
 SQL (Google BigQuery)
+
 Python (Pandas, NumPy)
+
 Data Visualization (Matplotlib, Seaborn)
+
 Jupyter Notebook
 
 
