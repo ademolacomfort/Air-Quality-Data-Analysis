@@ -12,12 +12,16 @@ The goal is to generate actionable insights that can support environmental monit
 🎯 Objectives
 
 
-Identify pollutant distribution across different locations
-Detect geographic pollution hotspots
-Analyze seasonal variations in air quality
-Study temporal (time-based) trends in pollution levels
-Investigate potential monitoring-source bias
+- Identify pollutant distribution across different locations
+- Detect geographic pollution hotspots
+- Analyze seasonal variations in air quality
+- Study temporal (time-based) trends in pollution levels
+- Investigate potential monitoring-source bias
+
+
 🛠️ Tools & Technologies
+
+
 SQL (Google BigQuery)
 Python (Pandas, NumPy)
 Data Visualization (Matplotlib, Seaborn)
